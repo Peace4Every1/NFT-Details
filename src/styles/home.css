@@ -1,0 +1,31 @@
+.search-btn {
+  margin: 10px 0 15px;
+  background-color: #465ae9;
+  border-color: #465ae9;
+  width: 100%;
+}
+
+.search {
+  background-color: #24252c;
+  border-color: #24252c;
+  color: #fff;
+}
+
+.result-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.result-address {
+  word-wrap: break-word;
+  max-width: calc(100% - (14px + 40px));
+  /* icon width + margin-left */
+  text-align: left;
+}
+
+.result-icon {
+  margin-left: 40px;
+}

@@ -1,0 +1,41 @@
+@import "~antd/dist/antd.css";
+@import "./styles/home.css";
+@import "./styles/details.css";
+
+.layout {
+  text-align: center;
+  background-color: #1a1a1a;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #1a1a1a;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.ant-page-header-heading {
+  justify-content: center;
+}
+
+.ant-page-header-heading-title {
+  color: #fff;
+  font-size: 14px;
+  margin-right: 0;
+}
+
+.container {
+  padding: 0 17px 40px;
+}
+
+.regular-text {
+  font-size: 14px;
+  font-family: Montserrat;
+  color: #fff;
+}
+
+.input {
+  display: block;
+}

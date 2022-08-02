@@ -1,0 +1,54 @@
+.back-icon {
+  color: #fff;
+  position: relative;
+  left: 0;
+}
+
+p.title {
+  font-size: 16px;
+  text-align: left;
+  margin: 25px 0 17px;
+}
+
+.divider {
+  margin-bottom: 25px;
+  color: #24252c;
+}
+
+.title-sm {
+  margin-bottom: 10;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.asset-id {
+  word-wrap: break-word;
+  margin-bottom: 30px;
+}
+
+p.attributes-title {
+  margin: 35px 0;
+}
+
+.block-text {
+  background-color: #24252c;
+  border-radius: 8px;
+  padding: 12px;
+  text-align: left;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.text-block-container {
+  margin-bottom: 27px;
+}
+
+.details-header .ant-page-header-heading-left {
+  width: 100%;
+  justify-content: center;
+}
+
+.details-header .ant-page-header-back {
+  position: absolute;
+  left: 25px;
+}
